@@ -1,3 +1,18 @@
 body{background-color: hotpink;}
 img.gallery{width: 259px;height:194px ;}
 .header{color:darkorange;}
+ul{list-style: none;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    }
+    ul li{float: left;
+      }
+    ul li a{display: block;;
+    text-decoration: none;
+    padding: 8px 16px;
+    
+    }
+    ul li a:hover{background-color: aqua;
+    }
+    

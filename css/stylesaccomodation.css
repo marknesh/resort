@@ -1,2 +1,17 @@
 body{background-color: lightsalmon;}
 .header{color:green;}
+ul{list-style: none;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    }
+   ul li{float: left;
+      }
+   ul li a{display: block;;
+    text-decoration: none;
+    padding: 8px 16px;
+    
+    }
+  ul  li a:hover{background-color: aqua;
+    }
+    
